@@ -1,2 +1,4 @@
 # MS-GARCH
-Implementation of the MSGARCH Package in R to the S&amp;P 500 time series.
+Implementation of the MSGARCH Package in R for the following datasets:
+* S&P 500 index closing value log returns
+* Free physical memory dataset
